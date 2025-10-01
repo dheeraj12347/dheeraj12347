@@ -35,23 +35,11 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,cpp,java,git,github,linux" />
-    <img src="https://skillicons.dev/icons?i=opencv,tailwind,bootstrap,figma,typescript,nextjs,mysql,postgresql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,cpp,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=opencv,tailwind,bootstrap,typescript,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Bansal&show_icons=true&theme=tokyonight" alt="Dheeraj's GitHub Stats" height="200px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Bansal&layout=compact&theme=tokyonight" alt="Dheeraj's Top Languages" height="200px" />
-      </td>
-    </tr>
-  </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-Bansal&theme=react-dark&bg_color=000000&color=0aa6e9&line=0aa6e9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
+
