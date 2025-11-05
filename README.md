@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=0aa6e9&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Dheeraj+Bansal+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">Full Stack Web Developer 🌐 | AI Enthusiast 🤖 | Blockchain Explorer ⛓️</h2>
+<h2 align="center">Full Stack Web Developer 🌐 | AI Enthusiast 🤖 </h2>
 
 <div align="center"> 
  I’m <b>Dheeraj Bansal</b> – a passionate <b>Full Stack Web Developer</b> and <b>AI Enthusiast</b> 🚀.  
